@@ -1,2 +1,4 @@
+activeuserprofiles=Team;VO01MICRO13;VO01MICRO14
 eclipse.preferences.version=1
 org.eclipse.rse.systemtype.local.systemType.defaultUserId=logonrmlocal
+useridperkey=VO01MICRO14.Local\=logonrmlocal;
