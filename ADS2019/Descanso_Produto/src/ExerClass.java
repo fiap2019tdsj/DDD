@@ -11,8 +11,11 @@ public class ExerClass {
 		prod1.setMarca("DietaJá");
 		
 		System.out.println(prod1.getBasico());
+		
 		System.out.println(prod1.getDetalheMarca());
+		
 		System.out.println("O produto com desconto é " + prod1.getDesconto());
+		
 		System.out.println(prod1.getValores());
 		
 		prod2.setBasico(100, "whatever");
