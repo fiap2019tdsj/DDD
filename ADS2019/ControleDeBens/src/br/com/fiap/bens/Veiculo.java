@@ -1,4 +1,4 @@
-package bens;
+package br.com.fiap.bens;
 
 public class Veiculo {
 	private String modelo;

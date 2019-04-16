@@ -1,7 +1,7 @@
-package pessoas;
+package br.com.fiap.pessoas;
 
-import bens.Imovel;
-import bens.Veiculo;
+import br.com.fiap.bens.Imovel;
+import br.com.fiap.bens.Veiculo;
 
 public class PessoaFisica {
 	private String nome;

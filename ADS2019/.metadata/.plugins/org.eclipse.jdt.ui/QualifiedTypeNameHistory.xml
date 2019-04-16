@@ -6,5 +6,8 @@
 <fullyQualifiedTypeName name="bens.Veiculo"/>
 <fullyQualifiedTypeName name="bens.Imovel"/>
 <fullyQualifiedTypeName name="pessoas.PessoaFisica"/>
+<fullyQualifiedTypeName name="br.com.fiap.bens.Veiculo"/>
+<fullyQualifiedTypeName name="br.com.fiap.bens.Imovel"/>
+<fullyQualifiedTypeName name="br.com.fiap.pessoas.PessoaFisica"/>
 <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
 </qualifiedTypeNameHistroy>

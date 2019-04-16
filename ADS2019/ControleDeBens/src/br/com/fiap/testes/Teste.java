@@ -1,10 +1,10 @@
-package testes;
+package br.com.fiap.testes;
 
 import javax.swing.JOptionPane;
 
-import bens.Imovel;
-import bens.Veiculo;
-import pessoas.PessoaFisica;
+import br.com.fiap.bens.Imovel;
+import br.com.fiap.bens.Veiculo;
+import br.com.fiap.pessoas.PessoaFisica;
 
 public class Teste {
 
