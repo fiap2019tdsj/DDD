@@ -10,4 +10,13 @@
 <fullyQualifiedTypeName name="br.com.fiap.bens.Imovel"/>
 <fullyQualifiedTypeName name="br.com.fiap.pessoas.PessoaFisica"/>
 <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+<fullyQualifiedTypeName name="br.com.fiap.tds.ltp.pacotes.ex2.produtos.Produto"/>
+<fullyQualifiedTypeName name="br.com.fiap.tds.ltp.jogo.personagem.Personagem"/>
+<fullyQualifiedTypeName name="br.com.fiap.tds.ltp.jogo.personagem.humano.Humano"/>
+<fullyQualifiedTypeName name="br.com.fiap.beans.Piano"/>
+<fullyQualifiedTypeName name="br.com.fiap.beans.Violao"/>
+<fullyQualifiedTypeName name="br.com.fiap.beans.Bateria"/>
+<fullyQualifiedTypeName name="br.com.fiap.beans.Escala"/>
+<fullyQualifiedTypeName name="br.com.fiap.beans.Passagem"/>
+<fullyQualifiedTypeName name="br.com.fiap.beans.Passageiro"/>
 </qualifiedTypeNameHistroy>
