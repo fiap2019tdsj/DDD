@@ -9,7 +9,6 @@
 <fullyQualifiedTypeName name="br.com.fiap.bens.Veiculo"/>
 <fullyQualifiedTypeName name="br.com.fiap.bens.Imovel"/>
 <fullyQualifiedTypeName name="br.com.fiap.pessoas.PessoaFisica"/>
-<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
 <fullyQualifiedTypeName name="br.com.fiap.tds.ltp.pacotes.ex2.produtos.Produto"/>
 <fullyQualifiedTypeName name="br.com.fiap.tds.ltp.jogo.personagem.Personagem"/>
 <fullyQualifiedTypeName name="br.com.fiap.tds.ltp.jogo.personagem.humano.Humano"/>
@@ -19,4 +18,11 @@
 <fullyQualifiedTypeName name="br.com.fiap.beans.Escala"/>
 <fullyQualifiedTypeName name="br.com.fiap.beans.Passagem"/>
 <fullyQualifiedTypeName name="br.com.fiap.beans.Passageiro"/>
+<fullyQualifiedTypeName name="br.com.fiap.excecao.Excecao"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.sql.Statement"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="javax.swing.JPanel"/>
+<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
 </qualifiedTypeNameHistroy>
